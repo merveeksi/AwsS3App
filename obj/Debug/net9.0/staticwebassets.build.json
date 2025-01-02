@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZWLQBggWsmrU1L99y+zsusFBShf0lRvtg6Fe6a936MI=",
+  "Source": "AwsS3Api",
+  "BasePath": "_content/AwsS3Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UqXZ1O7ahdE=",
+  "success": true,
+  "projectFilePath": "/Users/pc/Desktop/AwsS3App/AwsS3Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/pc/.nuget/packages/awssdk.core/3.7.400.70/awssdk.core.3.7.400.70.nupkg.sha512",
+    "/Users/pc/.nuget/packages/awssdk.s3/3.7.410.12/awssdk.s3.3.7.410.12.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
